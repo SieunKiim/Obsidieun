@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "bc40923c6ed2c17d",
+            "id": "17a904dfc8c56dd9",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -130,15 +130,14 @@
             }
           },
           {
-            "id": "250639a07ff4955a",
+            "id": "2640b9ca769a3892",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,7 +153,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "250639a07ff4955a",
+  "active": "d6d2c803ecc14a64",
   "lastOpenFiles": [
     "서블릿이란?.md",
     "스프링 부트 작동 원리.md",
