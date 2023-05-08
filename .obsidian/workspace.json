@@ -128,13 +128,21 @@
                 "file": "니들이 톰켓을 아느냐?.md"
               }
             }
+          },
+          {
+            "id": "250639a07ff4955a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +154,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "daf238097dcd2e66",
+  "active": "250639a07ff4955a",
   "lastOpenFiles": [
     "서블릿이란?.md",
     "스프링 부트 작동 원리.md",
