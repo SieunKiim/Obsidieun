@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "31bfff3b89cb08d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "93b70ad778e9df02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daf238097dcd2e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "니들이 톰켓을 아느냐?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "905ba0e76a905e38",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b841a2206f44c0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcb9a5a0eee4769d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73ad6b241d707420",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0a55d14da3e2bc1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "right": {
+    "id": "d9f9390de81dfc07",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f7896c652c51205",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6d2c803ecc14a64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "니들이 톰켓을 아느냐?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67b7b04fd7cea446",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "니들이 톰켓을 아느냐?.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0fb20e6c595355a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc40923c6ed2c17d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "니들이 톰켓을 아느냐?.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "daf238097dcd2e66",
+  "lastOpenFiles": [
+    "서블릿이란?.md",
+    "스프링 부트 작동 원리.md",
+    "싱글톤과 멀티스레두 ✅.md",
+    "티타임 질문.md",
+    "Pasted image 20230426022226.png",
+    "무제 파일.canvas",
+    "C++ 게임 실행/환경 설정.md",
+    "C++ 게임 실행/GCC 옵션 라이브러리 관련.md",
+    "인프라 설정/ECS.md",
+    "인프라 설정/인프라 체크 리스트.md",
+    "인프라 설정",
+    "니들이 톰켓을 아느냐?.md",
+    "C++ 게임 실행",
+    "Pasted image 20230426020741.png"
+  ]
+}
