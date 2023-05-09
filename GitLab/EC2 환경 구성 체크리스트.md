@@ -8,6 +8,6 @@
     - [ ] 도커 서비스 시작  
     - [ ] 도커 그룹 추가
 
-lets check 
+lets check how bout now
 
 참고 URL  :  [https://nearhome.tistory.com/140](https://nearhome.tistory.com/140)
