@@ -13,6 +13,10 @@
   "note-composer",
   "command-palette",
   "editor-status",
+<<<<<<< HEAD
+=======
+  "bookmarks",
+>>>>>>> 2095ed6 (vault backup: 2023-05-09 08:57:54)
   "outline",
   "word-count",
   "file-recovery"

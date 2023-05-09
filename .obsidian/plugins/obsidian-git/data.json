@@ -3,7 +3,11 @@
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 10,
   "autoPushInterval": 0,
+<<<<<<< HEAD
   "autoPullInterval": 0,
+=======
+  "autoPullInterval": 5,
+>>>>>>> 2095ed6 (vault backup: 2023-05-09 08:57:54)
   "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
@@ -18,9 +22,15 @@
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
+<<<<<<< HEAD
   "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 5000,
+=======
+  "changedFilesInStatusBar": false,
+  "showedMobileNotice": true,
+  "refreshSourceControlTimer": 7000,
+>>>>>>> 2095ed6 (vault backup: 2023-05-09 08:57:54)
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,

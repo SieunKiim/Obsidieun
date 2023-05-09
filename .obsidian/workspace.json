@@ -1,21 +1,20 @@
 {
   "main": {
-    "id": "31bfff3b89cb08d7",
+    "id": "68367ea8547f1921",
     "type": "split",
     "children": [
       {
-        "id": "93b70ad778e9df02",
+        "id": "3bb662afa02ce693",
         "type": "tabs",
         "children": [
           {
-            "id": "daf238097dcd2e66",
+            "id": "6aa0fa7183153b3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "니들이 톰켓을 아느냐?.md",
-                "mode": "source",
-                "source": false
+                "file": "EC2 환경 구성 체크리스트.md",
+                "staged": true
               }
             }
           }
@@ -25,15 +24,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "905ba0e76a905e38",
+    "id": "990f14dbcfae654c",
     "type": "split",
     "children": [
       {
-        "id": "0b841a2206f44c0f",
+        "id": "ccdf67e9812db475",
         "type": "tabs",
         "children": [
           {
-            "id": "fcb9a5a0eee4769d",
+            "id": "ae303303415809ce",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +42,7 @@
             }
           },
           {
-            "id": "73ad6b241d707420",
+            "id": "f2badbad149eff47",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,10 +57,10 @@
             }
           },
           {
-            "id": "b0a55d14da3e2bc1",
+            "id": "c965fc70ce9b7f7c",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -69,23 +68,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 300
   },
   "right": {
-    "id": "d9f9390de81dfc07",
+    "id": "8f97f25280bdd83e",
     "type": "split",
     "children": [
       {
-        "id": "5f7896c652c51205",
+        "id": "96d6febbbd5a458c",
         "type": "tabs",
         "children": [
           {
-            "id": "d6d2c803ecc14a64",
+            "id": "8582554c18be6b13",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "니들이 톰켓을 아느냐?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +95,18 @@
             }
           },
           {
-            "id": "67b7b04fd7cea446",
+            "id": "a7814ec0615cf2a6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "니들이 톰켓을 아느냐?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d0fb20e6c595355a",
+            "id": "1f54480d41be3429",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +117,15 @@
             }
           },
           {
-            "id": "17a904dfc8c56dd9",
+            "id": "81181aa9fb65f7cb",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "니들이 톰켓을 아느냐?.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "2640b9ca769a3892",
+            "id": "975ce91a05d94d85",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -154,23 +149,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2640b9ca769a3892",
+  "active": "6aa0fa7183153b3f",
   "lastOpenFiles": [
-    "무제 파일.md",
-    "니들이 톰켓을 아느냐?.md",
-    "무제 폴더",
-    "서블릿이란?.md",
-    "스프링 부트 작동 원리.md",
+    "GitLab/EC2 환경 구성 체크리스트.md",
+    "GitLab",
+    "인프라 설정/인프라 체크 리스트.md",
+    "인프라 설정/ECS.md",
+    "인프라 설정",
     "싱글톤과 멀티스레두 ✅.md",
-    "티타임 질문.md",
+    "스프링 부트 작동 원리.md",
+    "서블릿이란?.md",
+    "니들이 톰켓을 아느냐?.md",
     "Pasted image 20230426022226.png",
-    "무제 파일.canvas",
     "C++ 게임 실행/환경 설정.md",
     "C++ 게임 실행/GCC 옵션 라이브러리 관련.md",
-    "인프라 설정/ECS.md",
-    "인프라 설정/인프라 체크 리스트.md",
-    "인프라 설정",
     "C++ 게임 실행",
-    "Pasted image 20230426020741.png"
+    "무제 폴더 1"
   ]
 }
